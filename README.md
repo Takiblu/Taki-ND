@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm <span>Taki</span>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Taki-ND&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Takiblu&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ### 💻 Full-Stack Developer · 🎮 FiveM Developer · 🎨 UI/UX
 
