@@ -86,6 +86,7 @@ I develop custom FiveM resources using:
 * OXCore
 * Qbox
 * ESX
+* Standalone
 
 ---
 
