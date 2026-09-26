@@ -77,12 +77,15 @@
 I develop custom FiveM resources using:
 
 * Lua
-* QBCore
-* Qbox
-* ESX
+* TypeScript
 * NUI
 * React
 * JavaScript
+* QBCore
+* NDCore
+* OXCore
+* Qbox
+* ESX
 
 ---
 
