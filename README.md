@@ -1,97 +1,60 @@
-<div align="center">
+# 👋 Hey, I'm Taki
 
-# 👋 Hey, I'm <span>Taki</span>
+### 💻 Full-Stack Developer · 🎮 FiveM Developer · 🎨 UI/UX Designer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Takiblu&style=flat&color=orange&label=PROFILE+VIEWS)
-
-### 💻 Full-Stack Developer · 🎮 FiveM Developer · 🎨 UI/UX
-
-<p>
-  I build modern web applications, custom FiveM resources,
-  and clean user interfaces.
-</p>
-
-</div>
+I build modern web applications, custom FiveM resources, and clean user interfaces.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-```text
-💻 Full-Stack Developer
-🎮 FiveM Developer
-🎨 UI/UX & Figma
-⚡ Performance & Clean Code
-🧩 Web & Game Development
-```
+- 💻 **Full-Stack Developer** focusing on modern web technologies.
+- 🎮 **FiveM Developer** crafting custom scripts, NUI, and game frameworks.
+- 🎨 **UI/UX Enthusiast** designing sleek interfaces in Figma and Tailwind CSS.
+- ⚡ **Performance & Clean Code** advocate.
+- 🧩 Passionate about blending **Web & Game Development**.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 💻 Languages
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-</p>
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🌐 Frontend
+#### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+#### 🎮 FiveM Frameworks
+![QBCore](https://img.shields.io/badge/QBCore-008080?style=for-the-badge)
+![Qbox](https://img.shields.io/badge/Qbox-2D3748?style=for-the-badge)
+![ESX](https://img.shields.io/badge/ESX-E53E3E?style=for-the-badge)
+![OXCore](https://img.shields.io/badge/OXCore-3182CE?style=for-the-badge)
 
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
-</p>
-
-### 🎮 FiveM
-
-<p>
-  <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge" />
-</p>
-
-<p>
-  <code>QBCore</code>
-  <code>Qbox</code>
-  <code>ESX</code>
-</p>
-
-### 🎨 Design
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</p>
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🎮 FiveM Development
+### 🎮 FiveM Development
 
-I develop custom FiveM resources using:
+I specialize in developing custom FiveM resources and UI integrations using:
 
-* Lua
-* TypeScript
-* NUI
-* React
-* JavaScript
-* QBCore
-* NDCore
-* OXCore
-* Qbox
-* ESX
-* Standalone
+- **Languages:** Lua, TypeScript, JavaScript
+- **Frontend & NUI:** React, Tailwind CSS, HTML/CSS
+- **Frameworks:** QBCore, Qbox, ESX, OXCore, NDCore, Standalone
 
 ---
 
-<div align="center">
-
-### 💻 Code. Create. Improve.
-
-</div>
+<p center>
+  <i>💻 Code. Create. Improve.</i>
+</p>
