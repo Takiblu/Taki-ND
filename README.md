@@ -35,9 +35,9 @@ I build modern web applications, custom FiveM resources, and clean user interfac
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🎮 FiveM Frameworks
-![QBCore](https://img.shields.io/badge/QBCore-008080?style=for-the-badge)
-![Qbox](https://img.shields.io/badge/Qbox-2D3748?style=for-the-badge)
-![ESX](https://img.shields.io/badge/ESX-E53E3E?style=for-the-badge)
+![QBCore](https://img.shields.io/badge/QBCore-E53E3E?style=for-the-badge)
+![Qbox](https://img.shields.io/badge/Qbox-f7ff19?style=for-the-badge)
+![ESX](https://img.shields.io/badge/ESX-ff6a19?style=for-the-badge)
 ![OXCore](https://img.shields.io/badge/OXCore-3182CE?style=for-the-badge)
 
 #### 🎨 Design
